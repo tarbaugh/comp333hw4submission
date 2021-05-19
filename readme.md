@@ -6,7 +6,6 @@ React Native Instructions:
 ```bash
 cd 333-homework-04 \
 && npm install \
-&& expo start \
 && expo start
 ```
 
